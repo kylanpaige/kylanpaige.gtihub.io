@@ -1,0 +1,632 @@
+Uri: https://fonts.googleapis.com/css?family=Inter:100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%26subset%3Dlatin%2Clatin-ext&ver=1.0.0
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.2.2
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuBWYAZ9hjQ.ttf
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuBWYAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyfAZ9hjQ.ttf
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyfAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYAZ9hjQ.ttf
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZ9hjQ.ttf
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYAZ9hjQ.ttf
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZ9hjQ.ttf
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyeAZ9hjQ.ttf
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyeAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZ9hjQ.ttf
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfAZ9hjQ.ttf
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v25/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\s\robotoslab\v25\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v25/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\s\robotoslab\v25\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v25/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\s\robotoslab\v25\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v25/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\s\robotoslab\v25\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v25/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\s\robotoslab\v25\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v25/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\s\robotoslab\v25\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v25/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\s\robotoslab\v25\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v25/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\s\robotoslab\v25\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v25/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\s\robotoslab\v25\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css?ver=6.2.2
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\vue-static\landings\line-awesome\line-awesome\1.3.0\css\line-awesome.min.css
+Content Type: text/css
+
+Uri: https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/fonts/la-brands-400.eot
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\vue-static\landings\line-awesome\line-awesome\1.3.0\fonts\la-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/fonts/la-brands-400.eot?
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\vue-static\landings\line-awesome\line-awesome\1.3.0\fonts\la-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/fonts/la-brands-400.svg
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\vue-static\landings\line-awesome\line-awesome\1.3.0\fonts\la-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/fonts/la-brands-400.ttf
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\vue-static\landings\line-awesome\line-awesome\1.3.0\fonts\la-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/fonts/la-brands-400.woff
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\vue-static\landings\line-awesome\line-awesome\1.3.0\fonts\la-brands-400.woff
+Content Type: font/woff
+
+Uri: https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/fonts/la-brands-400.woff2
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\vue-static\landings\line-awesome\line-awesome\1.3.0\fonts\la-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/fonts/la-regular-400.eot
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\vue-static\landings\line-awesome\line-awesome\1.3.0\fonts\la-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/fonts/la-regular-400.eot?
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\vue-static\landings\line-awesome\line-awesome\1.3.0\fonts\la-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/fonts/la-regular-400.svg
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\vue-static\landings\line-awesome\line-awesome\1.3.0\fonts\la-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/fonts/la-regular-400.ttf
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\vue-static\landings\line-awesome\line-awesome\1.3.0\fonts\la-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/fonts/la-regular-400.woff
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\vue-static\landings\line-awesome\line-awesome\1.3.0\fonts\la-regular-400.woff
+Content Type: font/woff
+
+Uri: https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/fonts/la-regular-400.woff2
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\vue-static\landings\line-awesome\line-awesome\1.3.0\fonts\la-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/fonts/la-solid-900.eot
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\vue-static\landings\line-awesome\line-awesome\1.3.0\fonts\la-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/fonts/la-solid-900.eot?
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\vue-static\landings\line-awesome\line-awesome\1.3.0\fonts\la-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/fonts/la-solid-900.svg
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\vue-static\landings\line-awesome\line-awesome\1.3.0\fonts\la-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/fonts/la-solid-900.ttf
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\vue-static\landings\line-awesome\line-awesome\1.3.0\fonts\la-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/fonts/la-solid-900.woff
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\vue-static\landings\line-awesome\line-awesome\1.3.0\fonts\la-solid-900.woff
+Content Type: font/woff
+
+Uri: https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/fonts/la-solid-900.woff2
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\vue-static\landings\line-awesome\line-awesome\1.3.0\fonts\la-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://wpriverthemes.com/drake/
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\index.htm
+Content Type: text/html
+
+Uri: https://wpriverthemes.com/drake/3d-abstract-ball/
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\3d-abstract-ball\index.htm
+Content Type: text/html
+
+Uri: https://wpriverthemes.com/drake/comments/feed/
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://wpriverthemes.com/drake/earth-lines-sphere/
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\earth-lines-sphere\index.htm
+Content Type: text/html
+
+Uri: https://wpriverthemes.com/drake/feed/
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://wpriverthemes.com/drake/liquids-wavy/
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\liquids-wavy\index.htm
+Content Type: text/html
+
+Uri: https://wpriverthemes.com/drake/simple-strings/
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\simple-strings\index.htm
+Content Type: text/html
+
+Uri: https://wpriverthemes.com/drake/water-waves/
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\water-waves\index.htm
+Content Type: text/html
+
+Uri: https://wpriverthemes.com/drake/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.7
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://wpriverthemes.com/drake/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.7
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/x-javascript
+
+Uri: https://wpriverthemes.com/drake/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.7
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/x-javascript
+
+Uri: https://wpriverthemes.com/drake/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.14.1
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://wpriverthemes.com/drake/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.14.1
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/x-javascript
+
+Uri: https://wpriverthemes.com/drake/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.14.1
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://wpriverthemes.com/drake/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.14.1
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://wpriverthemes.com/drake/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.20.0
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://wpriverthemes.com/drake/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.20.0
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://wpriverthemes.com/drake/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.20.0
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://wpriverthemes.com/drake/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.20.0
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://wpriverthemes.com/drake/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.20.0
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://wpriverthemes.com/drake/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.20.0
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: application/font-woff
+
+Uri: https://wpriverthemes.com/drake/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://wpriverthemes.com/drake/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/x-javascript
+
+Uri: https://wpriverthemes.com/drake/wp-content/plugins/redux-framework/redux-core/assets/css/extendify-utilities.css?ver=4.4.4
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\plugins\redux-framework\redux-core\assets\css\extendify-utilities.css
+Content Type: text/css
+
+Uri: https://wpriverthemes.com/drake/wp-content/themes/drake/assets/css/animate.min.css?ver=6.2.2
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\themes\drake\assets\css\animate.min.css
+Content Type: text/css
+
+Uri: https://wpriverthemes.com/drake/wp-content/themes/drake/assets/css/bootstrap.min.css?ver=6.2.2
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\themes\drake\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://wpriverthemes.com/drake/wp-content/themes/drake/assets/css/lightbox.min.css?ver=6.2.2
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\themes\drake\assets\css\lightbox.min.css
+Content Type: text/css
+
+Uri: https://wpriverthemes.com/drake/wp-content/themes/drake/assets/css/owl.carousel.min.css?ver=6.2.2
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\themes\drake\assets\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://wpriverthemes.com/drake/wp-content/themes/drake/assets/css/owl.theme.default.min.css?ver=6.2.2
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\themes\drake\assets\css\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: https://wpriverthemes.com/drake/wp-content/themes/drake/assets/css/responsive.css?ver=6.2.2
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\themes\drake\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://wpriverthemes.com/drake/wp-content/themes/drake/assets/css/smooth-scrollbar.css?ver=6.2.2
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\themes\drake\assets\css\smooth-scrollbar.css
+Content Type: text/css
+
+Uri: https://wpriverthemes.com/drake/wp-content/themes/drake/assets/css/style.css?ver=6.2.2
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\themes\drake\assets\css\style.css
+Content Type: text/css
+
+Uri: https://wpriverthemes.com/drake/wp-content/themes/drake/assets/css/unit-test.css?ver=6.2.2
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\themes\drake\assets\css\unit-test.css
+Content Type: text/css
+
+Uri: https://wpriverthemes.com/drake/wp-content/themes/drake/assets/images/bg-shape.png
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\themes\drake\assets\images\bg-shape.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/drake/wp-content/themes/drake/assets/images/close.png
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\themes\drake\assets\images\close.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/drake/wp-content/themes/drake/assets/images/favicon.png
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\themes\drake\assets\images\favicon.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/drake/wp-content/themes/drake/assets/images/loading.gif
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\themes\drake\assets\images\loading.gif
+Content Type: image/gif
+
+Uri: https://wpriverthemes.com/drake/wp-content/themes/drake/assets/images/logo.png
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\themes\drake\assets\images\logo.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/drake/wp-content/themes/drake/assets/images/me.jpg
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\themes\drake\assets\images\me.jpg
+Content Type: image/jpeg
+
+Uri: https://wpriverthemes.com/drake/wp-content/themes/drake/assets/images/next.png
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\themes\drake\assets\images\next.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/drake/wp-content/themes/drake/assets/images/prev.png
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\themes\drake\assets\images\prev.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/drake/wp-content/themes/drake/assets/images/video1.mp4
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\themes\drake\assets\images\video1.mp4
+Content Type: video/mp4
+
+Uri: https://wpriverthemes.com/drake/wp-content/themes/drake/assets/images/video2.mp4
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\themes\drake\assets\images\video2.mp4
+Content Type: video/mp4
+
+Uri: https://wpriverthemes.com/drake/wp-content/themes/drake/assets/images/video3.mp4
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\themes\drake\assets\images\video3.mp4
+Content Type: video/mp4
+
+Uri: https://wpriverthemes.com/drake/wp-content/themes/drake/assets/images/video4.mp4
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\themes\drake\assets\images\video4.mp4
+Content Type: video/mp4
+
+Uri: https://wpriverthemes.com/drake/wp-content/themes/drake/assets/images/video5.mp4
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\themes\drake\assets\images\video5.mp4
+Content Type: video/mp4
+
+Uri: https://wpriverthemes.com/drake/wp-content/themes/drake/assets/js/ajax-form.js?ver=6.2.2
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\themes\drake\assets\js\ajax-form.js
+Content Type: application/x-javascript
+
+Uri: https://wpriverthemes.com/drake/wp-content/themes/drake/assets/js/bootstrap.bundle.min.js?ver=6.2.2
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\themes\drake\assets\js\bootstrap.bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://wpriverthemes.com/drake/wp-content/themes/drake/assets/js/color.js?ver=6.2.2
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\themes\drake\assets\js\color.js
+Content Type: application/x-javascript
+
+Uri: https://wpriverthemes.com/drake/wp-content/themes/drake/assets/js/gsap.min.js?ver=6.2.2
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\themes\drake\assets\js\gsap.min.js
+Content Type: application/x-javascript
+
+Uri: https://wpriverthemes.com/drake/wp-content/themes/drake/assets/js/jquery.js?ver=6.2.2
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\themes\drake\assets\js\jquery.js
+Content Type: application/x-javascript
+
+Uri: https://wpriverthemes.com/drake/wp-content/themes/drake/assets/js/lightbox.min.js?ver=6.2.2
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\themes\drake\assets\js\lightbox.min.js
+Content Type: application/x-javascript
+
+Uri: https://wpriverthemes.com/drake/wp-content/themes/drake/assets/js/main.js?ver=6.2.2
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\themes\drake\assets\js\main.js
+Content Type: application/x-javascript
+
+Uri: https://wpriverthemes.com/drake/wp-content/themes/drake/assets/js/owl.carousel.js?ver=6.2.2
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\themes\drake\assets\js\owl.carousel.js
+Content Type: application/x-javascript
+
+Uri: https://wpriverthemes.com/drake/wp-content/themes/drake/assets/js/ScrollToPlugin.min.js?ver=6.2.2
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\themes\drake\assets\js\ScrollToPlugin.min.js
+Content Type: application/x-javascript
+
+Uri: https://wpriverthemes.com/drake/wp-content/themes/drake/assets/js/ScrollTrigger.min.js?ver=6.2.2
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\themes\drake\assets\js\ScrollTrigger.min.js
+Content Type: application/x-javascript
+
+Uri: https://wpriverthemes.com/drake/wp-content/uploads/2023/03/client-1.png
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\uploads\2023\03\client-1.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/drake/wp-content/uploads/2023/03/client-2.png
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\uploads\2023\03\client-2.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/drake/wp-content/uploads/2023/03/client-3.png
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\uploads\2023\03\client-3.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/drake/wp-content/uploads/2023/03/client-4.png
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\uploads\2023\03\client-4.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/drake/wp-content/uploads/2023/03/client-5.png
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\uploads\2023\03\client-5.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/drake/wp-content/uploads/2023/03/client-6.png
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\uploads\2023\03\client-6.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/drake/wp-content/uploads/2023/03/client-7.png
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\uploads\2023\03\client-7.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/drake/wp-content/uploads/2023/03/client-8.png
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\uploads\2023\03\client-8.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/drake/wp-content/uploads/2023/03/figma.png
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\uploads\2023\03\figma.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/drake/wp-content/uploads/2023/03/framer.png
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\uploads\2023\03\framer.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/drake/wp-content/uploads/2023/03/laravel.png
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\uploads\2023\03\laravel.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/drake/wp-content/uploads/2023/03/portfolio1.jpg
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\uploads\2023\03\portfolio1.jpg
+Content Type: image/jpeg
+
+Uri: https://wpriverthemes.com/drake/wp-content/uploads/2023/03/portfolio2.jpg
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\uploads\2023\03\portfolio2.jpg
+Content Type: image/jpeg
+
+Uri: https://wpriverthemes.com/drake/wp-content/uploads/2023/03/portfolio3.jpg
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\uploads\2023\03\portfolio3.jpg
+Content Type: image/jpeg
+
+Uri: https://wpriverthemes.com/drake/wp-content/uploads/2023/03/portfolio4.jpg
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\uploads\2023\03\portfolio4.jpg
+Content Type: image/jpeg
+
+Uri: https://wpriverthemes.com/drake/wp-content/uploads/2023/03/portfolio5.jpg
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\uploads\2023\03\portfolio5.jpg
+Content Type: image/jpeg
+
+Uri: https://wpriverthemes.com/drake/wp-content/uploads/2023/03/react.png
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\uploads\2023\03\react.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/drake/wp-content/uploads/2023/03/round-text.png
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\uploads\2023\03\round-text.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/drake/wp-content/uploads/2023/03/testimonial-1.jpg
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\uploads\2023\03\testimonial-1.jpg
+Content Type: image/jpeg
+
+Uri: https://wpriverthemes.com/drake/wp-content/uploads/2023/03/testimonial-2.jpg
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\uploads\2023\03\testimonial-2.jpg
+Content Type: image/jpeg
+
+Uri: https://wpriverthemes.com/drake/wp-content/uploads/2023/03/testimonial-3.jpg
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\uploads\2023\03\testimonial-3.jpg
+Content Type: image/jpeg
+
+Uri: https://wpriverthemes.com/drake/wp-content/uploads/2023/03/webflow.png
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\uploads\2023\03\webflow.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/drake/wp-content/uploads/2023/03/wordpress.png
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\uploads\2023\03\wordpress.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/drake/wp-content/uploads/elementor/css/global.css?ver=1688231007
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://wpriverthemes.com/drake/wp-content/uploads/elementor/css/post-10.css?ver=1688231007
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-content\uploads\elementor\css\post-10.css
+Content Type: text/css
+
+Uri: https://wpriverthemes.com/drake/wp-includes/css/classic-themes.min.css?ver=6.2.2
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://wpriverthemes.com/drake/wp-includes/css/dist/block-library/style.min.css?ver=6.2.2
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://wpriverthemes.com/drake/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://wpriverthemes.com/drake/wp-includes/js/jquery/jquery.min.js?ver=3.6.4
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://wpriverthemes.com/drake/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/x-javascript
+
+Uri: https://wpriverthemes.com/drake/wp-includes/wlwmanifest.xml
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://wpriverthemes.com/drake/wp-json/
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://wpriverthemes.com/drake/wp-json/oembed/1.0/embed?url=https:%2F%2Fwpriverthemes.com%2Fdrake%2F
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://wpriverthemes.com/drake/wp-json/oembed/1.0/embed?url=https:%2F%2Fwpriverthemes.com%2Fdrake%2F&format=xml
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://wpriverthemes.com/drake/wp-json/oembed/1.0/embed?url=https:%2F%2Fwpriverthemes.com%2Fdrake%2F3d-abstract-ball%2F
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://wpriverthemes.com/drake/wp-json/oembed/1.0/embed?url=https:%2F%2Fwpriverthemes.com%2Fdrake%2F3d-abstract-ball%2F&format=xml
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://wpriverthemes.com/drake/wp-json/oembed/1.0/embed?url=https:%2F%2Fwpriverthemes.com%2Fdrake%2Fearth-lines-sphere%2F
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://wpriverthemes.com/drake/wp-json/oembed/1.0/embed?url=https:%2F%2Fwpriverthemes.com%2Fdrake%2Fearth-lines-sphere%2F&format=xml
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://wpriverthemes.com/drake/wp-json/oembed/1.0/embed?url=https:%2F%2Fwpriverthemes.com%2Fdrake%2Fliquids-wavy%2F
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://wpriverthemes.com/drake/wp-json/oembed/1.0/embed?url=https:%2F%2Fwpriverthemes.com%2Fdrake%2Fliquids-wavy%2F&format=xml
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://wpriverthemes.com/drake/wp-json/oembed/1.0/embed?url=https:%2F%2Fwpriverthemes.com%2Fdrake%2Fsimple-strings%2F
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://wpriverthemes.com/drake/wp-json/oembed/1.0/embed?url=https:%2F%2Fwpriverthemes.com%2Fdrake%2Fsimple-strings%2F&format=xml
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://wpriverthemes.com/drake/wp-json/oembed/1.0/embed?url=https:%2F%2Fwpriverthemes.com%2Fdrake%2Fwater-waves%2F
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://wpriverthemes.com/drake/wp-json/oembed/1.0/embed?url=https:%2F%2Fwpriverthemes.com%2Fdrake%2Fwater-waves%2F&format=xml
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://wpriverthemes.com/drake/wp-json/wp/v2/pages/199
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-json\wp\v2\pages\199
+Content Type: application/json
+
+Uri: https://wpriverthemes.com/drake/wp-json/wp/v2/pages/201
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-json\wp\v2\pages\201
+Content Type: application/json
+
+Uri: https://wpriverthemes.com/drake/wp-json/wp/v2/pages/203
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-json\wp\v2\pages\203
+Content Type: application/json
+
+Uri: https://wpriverthemes.com/drake/wp-json/wp/v2/pages/205
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-json\wp\v2\pages\205
+Content Type: application/json
+
+Uri: https://wpriverthemes.com/drake/wp-json/wp/v2/pages/207
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-json\wp\v2\pages\207
+Content Type: application/json
+
+Uri: https://wpriverthemes.com/drake/wp-json/wp/v2/pages/8
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\wp-json\wp\v2\pages\8
+Content Type: application/json
+
+Uri: https://wpriverthemes.com/drake/xmlrpc.php?rsd
+File Name: E:\Portfolio Website\Template\wpriverthemes.com\drake\xmlrpc.php
+Content Type: text/xml
+
